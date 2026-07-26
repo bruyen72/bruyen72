@@ -205,13 +205,20 @@
 
 ## `>` Estatísticas
 
+<!-- O domínio oficial github-readme-stats.vercel.app está PAUSADO (erro 503).
+     Estes endereços são espelhos do mesmo projeto e estão respondendo.
+     Se um cair, troque por outro — a lista está no COMO-PUBLICAR.md -->
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Bruyen72&show_icons=true&hide_border=true&cache_seconds=86400&bg_color=0D1117&title_color=4FD8E8&icon_color=FFC24D&text_color=B2BBCB&ring_color=4FD8E8" alt="Estatísticas do GitHub de Bruyen72">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruyen72&layout=compact&hide_border=true&cache_seconds=86400&bg_color=0D1117&title_color=4FD8E8&text_color=B2BBCB&langs_count=8" alt="Linguagens mais usadas">
+  <img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=Bruyen72&show_icons=true&hide_border=true&include_all_commits=true&locale=pt-br&cache_seconds=86400&bg_color=0D1117&title_color=4FD8E8&icon_color=FFC24D&text_color=B2BBCB&ring_color=4FD8E8" alt="Estatísticas do GitHub de Bruyen72">
+  <img height="165" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Bruyen72&layout=compact&hide_border=true&langs_count=8&locale=pt-br&cache_seconds=86400&bg_color=0D1117&title_color=4FD8E8&text_color=B2BBCB" alt="Linguagens mais usadas">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bruyen72&hide_border=true&background=0D1117&stroke=2B3140&ring=4FD8E8&fire=FFC24D&currStreakLabel=4FD8E8&sideLabels=B2BBCB&dates=6C7689&currStreakNum=F2F5FA&sideNums=F2F5FA" alt="Sequência de contribuições">
+  <img src="https://streak-stats.demolab.com?user=Bruyen72&locale=pt_BR&hide_border=true&background=0D1117&stroke=2B3140&ring=4FD8E8&fire=FFC24D&currStreakLabel=4FD8E8&sideLabels=B2BBCB&dates=6C7689&currStreakNum=F2F5FA&sideNums=F2F5FA" alt="Sequência de contribuições">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bruyen72&hide_border=true&bg_color=0D1117&color=4FD8E8&line=4FD8E8&point=FFC24D&title_color=4FD8E8&area=true&area_color=4FD8E8&custom_title=Atividade%20dos%20%C3%BAltimos%2031%20dias" alt="Gráfico de atividade dos últimos 31 dias" width="100%">
 </p>
 
 <br>
